@@ -1,6 +1,13 @@
-# Conversion-de-temp-rature---Partie-1
+# Yacine Idir
+
+CONST
+
+CELCIUS_TO_KELVIN
+CELCIUS_TO_FARHEINET
+
 INPUT
 int Celcius;
+
 OUTPUT
 double int Kelvin;
 double int Farheinet;
